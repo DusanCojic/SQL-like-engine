@@ -14,3 +14,5 @@
 - Inserting into a table: ```INSERT INTO Table(Colum1,Column2) VALUES (Value1,Value2),(Value2,Value4)```
 - Deleting rows from a table: ```DELETE FROM Table WHERE Column1=Something```
 - Updating rows in a table: ```UPDATE Table SET Column1=Something WHERE Column1=SomethingElse```
+
+https://github.com/user-attachments/assets/794fe085-2002-4b52-ad55-5f9f27c006e2
